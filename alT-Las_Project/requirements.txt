@@ -1,0 +1,10 @@
+aiohttp
+requests
+PyQt5
+opencv-python-headless
+pyautogui
+Pillow
+mss
+pybind11
+pytest
+coverage

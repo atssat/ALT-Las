@@ -1,0 +1,6 @@
+{
+    "debug": false,
+    "performance_mode": "balanced",
+    "log_level": "INFO",
+    "cuda_enabled": true
+}

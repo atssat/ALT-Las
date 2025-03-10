@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+debug_settings.json
+*.log
+screen_recording.mp4
+macros/
+credentials.json
+profile.stats
+
+# Dependencies
+dist/
+build/
+*.egg-info/
+
+# Test coverage
+.coverage
+coverage.xml
+htmlcov/
+
+# Temp files
+*.tmp
+.DS_Store

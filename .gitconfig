@@ -1,0 +1,12 @@
+[user]
+    name = atssat
+    email = ozgurgoca@gmail.com
+
+[credential]
+    helper = store
+
+[init]
+    defaultBranch = main
+
+[push]
+    default = current
